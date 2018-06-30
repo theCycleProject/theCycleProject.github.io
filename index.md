@@ -10,7 +10,7 @@ To join our presale, simply join our discord channel,
 send a pm to Cycle-Dev in order to reserve your masternode.
 
 ## Whitepaper:
-To read our whitepaper see [Whitepaper](https://thecycleproject.github.io/whitepaper.md)
+To read our whitepaper see [Whitepaper](thecycleproject.github.io/whitepaper.md)
 
 ## Roadmap
 
