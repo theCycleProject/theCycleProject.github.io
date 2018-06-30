@@ -31,3 +31,19 @@ To read our whitepaper see [Whitepaper](https://https://thecycleproject.github.i
 ## Get in Touch
 Discord is where we come together for discussions and all things Cycle
 
+Join our Pre-Sale
+To join our presale, simply join our discord channel,
+send a pm to Ren-Dev in order to reserve your masternode.
+
+More Information
+There will be only one round of Masternodes sales in which,
+20 Masternodes will be given for 0.1 btc each
+
+It is highly important that we get enough funding for fast track listing on MNO and Cryptobridge. Fast 
+track listing on Masternode Online and Cryptobridge will allow us to kick start the project and enable us get to work on the DEX as soon as possible.
+
+To avoid Scammers
+!!!!!Remember we never PM you for any sales , you have to contact us and reserve a masternode first after which we will send you an address to pay a deposit fee (10% of masternode cost = 0.01 BTC for).!!!! 
+As for Now you are welcome to reserve Masternode and after Mining Starts you can acquire your Masternode 
+right away.
+
