@@ -7,7 +7,7 @@ high ROI masternode coins.
 
 ## Join our presale:
 To join our presale, simply join our discord channel,
-send a pm to Cycle-Dev in order to reserve your masternode.
+send a pm to CycleDev in order to reserve your masternode.
 
 ## Whitepaper:
 To read our whitepaper see [Whitepaper](thecycleproject.github.io/whitepaper.md)
@@ -39,8 +39,8 @@ More Information
 There will be only one round of Masternodes sales in which,
 20 Masternodes will be given for 0.1 btc each
 
-It is highly important that we get enough funding for fast track listing on MNO and Cryptobridge. Fast 
-track listing on Masternode Online and Cryptobridge will allow us to kick start the project and enable us get to work on the DEX as soon as possible.
+It is highly important that we get enough funding for listing on MNO and Cryptobridge. 
+Allowing us to kick start the project. For more information, join the discord and contact CycleDev 
 
 To avoid Scammers
 !!!!!Remember we never PM you for any sales , you have to contact us and reserve a masternode first after which we will send you an address to pay a deposit fee (10% of masternode cost = 0.01 BTC for).!!!! 
