@@ -8,6 +8,7 @@ high ROI masternode coins.
 ## Join our presale:
 To join our presale, simply join our discord channel,
 send a pm to CycleDev in order to reserve your masternode.
+[join discord](https://discord.gg/GXJSBPh)
 
 ## Whitepaper:
 To read our whitepaper see [Whitepaper](thecycleproject.github.io/whitepaper.md)
